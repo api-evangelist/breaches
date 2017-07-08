@@ -819,18 +819,18 @@
   url: http://blog.smartbear.com/programming/collaborators-new-external-api/
   domain: blog.smartbear.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comprogrammingcollaborators-new-external-api.png
-- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
-  item_date: "2015-02-20 00:00:00"
-  title: LucyBot Eliminates CrossLanguage Programming Necessity
-  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
   item_date: "2015-02-20 00:00:00"
   title: MuleSoft Releases RAML NET Parser Visual Studio Extension
   url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
+- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
+  item_date: "2015-02-20 00:00:00"
+  title: LucyBot Eliminates CrossLanguage Programming Necessity
+  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
   item_date: "2015-02-20 00:00:00"
   title: API Best Practices The Wrap Up
@@ -982,18 +982,18 @@
   url: https://www.linkedin.com/pulse/10-usability-lessons-apis-frederik-willaert
   domain: www.linkedin.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-linkedin-compulse10-usability-lessons-apis-frederik-willaert.png
-- curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
-  item_date: "2015-03-16 00:00:00"
-  title: Why Your APIs Need Design Help
-  url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
-  domain: www.digitalgov.gov
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
 - curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
   item_date: "2015-03-16 00:00:00"
   title: Designing a Web API
   url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
+- curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
+  item_date: "2015-03-16 00:00:00"
+  title: Why Your APIs Need Design Help
+  url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
+  domain: www.digitalgov.gov
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
 - curated_id: oaScIuYJH95jMntmiUXlBzUhwBWPWLLdx7MEZk1wjiF89dehNdvKoLmD6RcQA9rcHJz116MXkvWkA116TIhjufe5fA117117
   item_date: "2015-03-17 00:00:00"
   title: 20 API Design Tips to Stop Annoying Developers
@@ -1176,18 +1176,18 @@
   url: http://restlet.com/blog/2015/05/20/restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150520restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api.png
-- curated_id: aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117
-  item_date: "2015-05-21 00:00:00"
-  title: Apigee adds some Swagger to API design
-  url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
-  domain: www.pcadvisor.co.uk
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-pcadvisor-co-uknewssoftware3612750apigee-adds-some-swagger-to-api-design.png
 - curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
   item_date: "2015-05-21 00:00:00"
   title: Apigee API Studio Designing Testing and Sharing APIs
   url: http://www.infoq.com/news/2015/05/apigee-api-studio
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
+- curated_id: aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117
+  item_date: "2015-05-21 00:00:00"
+  title: Apigee adds some Swagger to API design
+  url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
+  domain: www.pcadvisor.co.uk
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-pcadvisor-co-uknewssoftware3612750apigee-adds-some-swagger-to-api-design.png
 - curated_id: Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117
   item_date: "2015-05-21 00:00:00"
   title: 7 Important API Design Lessons
@@ -1297,18 +1297,18 @@
   url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
-- curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
-  item_date: "2015-06-30 00:00:00"
-  title: API Design Considerations for The Internet of Things
-  url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
 - curated_id: WedC123gJbVRxcVR5FuD8q7123Yk116o9116116HS12xXrrtIyDZxZuZsaa58VJDuaUcXXCBRx1SFIuz2123QzLeZoiTp116Ie2g117117
   item_date: "2015-06-30 00:00:00"
   title: Why Its OK To Design Imperfect APIs
   url: http://www.programmableweb.com/news/why-it%E2%80%99s-ok-to-design-imperfect-apis/analysis/2015/06/30
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-it%e2%80%99s-ok-to-design-imperfect-apisanalysis20150630.png
+- curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
+  item_date: "2015-06-30 00:00:00"
+  title: API Design Considerations for The Internet of Things
+  url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
 - curated_id: n7z123M6y116buVRfY8Wr4kz5OdnR123wqB2116t38ShIcn4123vI0XQysXA0yDLl17WibuFfmRMhAvqCtCoEPjA0aw7cjDA117117
   item_date: "2015-06-30 00:43:09"
   title: Tightening Up The Organizations That Are Included In My API Design Research
@@ -1408,18 +1408,18 @@
   url: http://www.slideshare.net/AEMHub2014/rest-in-aem-by-roy-fielding
   domain: www.slideshare.net
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-slideshare-netaemhub2014rest-in-aem-by-roy-fielding.png
-- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
-  item_date: "2015-09-13 00:00:00"
-  title: Architectural Styles for APIs SOAP REST and RPC
-  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
-  domain: api-university.com
-  image: ""
 - curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
   item_date: "2015-09-13 00:00:00"
   title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
   url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
+- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
+  item_date: "2015-09-13 00:00:00"
+  title: Architectural Styles for APIs SOAP REST and RPC
+  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
+  domain: api-university.com
+  image: ""
 - curated_id: OZpnbFT1163F4zCLYvsOGYUkUBJBLMoCMm9oVL5WgOg3S5hxmSRFbIZ3jrZHJ7dOe2cWmjxQ2Ws6WRkwXQJ116rbjQ117117
   item_date: "2015-11-24 00:00:00"
   title: API Design Using Behavior Driven Development
@@ -1576,17 +1576,17 @@
   url: https://sendgrid.com/blog/using-a-prototype-as-an-api-product-specification/
   domain: sendgrid.com
   image: ""
-- curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
-  item_date: "2016-02-17 00:00:00"
-  title: Dear API Designer Are You Sure You Want to Return a Primitive
-  url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
-  domain: dzone.com
-  image: ""
 - curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
   item_date: "2016-02-17 00:00:00"
   title: Why Github039s Scientist 10 Could Be Great for API Versioning
   url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
   domain: www.programmableweb.com
+  image: ""
+- curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
+  item_date: "2016-02-17 00:00:00"
+  title: Dear API Designer Are You Sure You Want to Return a Primitive
+  url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
+  domain: dzone.com
   image: ""
 - curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
   item_date: "2016-02-17 00:00:00"
@@ -1751,16 +1751,16 @@
   url: https://blog.apiary.io/2016/04/21/API-Design-Hackaton
   domain: blog.apiary.io
   image: ""
-- curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
-  item_date: "2016-04-22 00:00:00"
-  title: Build a REST API with XML Payload
-  url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
-  domain: dzone.com
-  image: ""
 - curated_id: GQZ2YNcE3oaixEwp123hvfKEYYiFNCYtJ7wTCGRvL5FQlXAn9DdBpIwdosb1116uqOjqEfZT123sDxxCqgJixiFUPI8A117117
   item_date: "2016-04-22 00:00:00"
   title: API Names and Begging the Negatives
   url: https://dzone.com/articles/api-names-and-begging-the-negatives
+  domain: dzone.com
+  image: ""
+- curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
+  item_date: "2016-04-22 00:00:00"
+  title: Build a REST API with XML Payload
+  url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
   domain: dzone.com
   image: ""
 - curated_id: n1239IRU1116nUVY5w17gdar4efuaY4Bs11662mwmOgO9SCZ10Fj123enMxyx0gH123qE9LcAfJkWFz63tYHVpqlz5NqtOZg117117
@@ -1902,17 +1902,17 @@
   url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
   domain: www.programmableweb.com
   image: ""
-- curated_id: h6loNrmahtGZvgL116Pr8gcsvvzgTqiWUvFoKxZmid4V3MUhCQbij5H5116nLYFyEOwa2IHgQI5V62Z70QMSmwrt116w117117
-  item_date: "2016-08-03 00:00:00"
-  title: Getting Your REST is Important
-  url: http://www.tibco.com/blog/2016/08/03/getting-your-rest-is-important/
-  domain: www.tibco.com
-  image: ""
 - curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
   item_date: "2016-08-03 00:00:00"
   title: Restlet Studio 13 is out
   url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
   domain: restlet.com
+  image: ""
+- curated_id: h6loNrmahtGZvgL116Pr8gcsvvzgTqiWUvFoKxZmid4V3MUhCQbij5H5116nLYFyEOwa2IHgQI5V62Z70QMSmwrt116w117117
+  item_date: "2016-08-03 00:00:00"
+  title: Getting Your REST is Important
+  url: http://www.tibco.com/blog/2016/08/03/getting-your-rest-is-important/
+  domain: www.tibco.com
   image: ""
 - curated_id: N4DsiNvaeA9XYbIShqFhKJN9u8qY5hrXFXCXrqt3RarEGDxboM7MJlKBdHfDyErGNmxEYQ888hcuZLr9R57NZg117117
   item_date: "2016-08-09 00:00:00"
@@ -2011,17 +2011,17 @@
   url: http://www.yiiframework.com/forum/index.php/topic/72123-how-to-sort-api-expand-fields/page__pid__302978
   domain: www.yiiframework.com
   image: ""
-- curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
-  item_date: "2016-09-07 00:00:00"
-  title: API Design Book Available Today
-  url: http://api-university.com/blog/api-design-book-available-today/
-  domain: api-university.com
-  image: ""
 - curated_id: Nn08eeP56Jj2Ejkok66pR6V2HEU6116cPXO4fAcR2jVskQK3DI693AYMtCeEeLMQ116FhL7jL4txtmNTuItGiaSJkA117117
   item_date: "2016-09-07 00:00:00"
   title: Understanding The New Swift 3 API Design Guidelines
   url: http://blog.teamtreehouse.com/understanding-new-swift-3-api-design-guidelines
   domain: blog.teamtreehouse.com
+  image: ""
+- curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
+  item_date: "2016-09-07 00:00:00"
+  title: API Design Book Available Today
+  url: http://api-university.com/blog/api-design-book-available-today/
+  domain: api-university.com
   image: ""
 - curated_id: qgjubPTwQuFMvCl123n5OfQnJOPjVOucQ51231qnXMd30ZvA3gRR5bmSQnZ116j0t123sXLyN5cLMWiTQXAozbTXkajIIw117117
   item_date: "2016-09-07 09:36:49"
@@ -2029,17 +2029,17 @@
   url: http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-Secret-Sauce-Behind-Building-an-Elastic-API-113410.aspx
   domain: www.streamingmedia.com
   image: ""
-- curated_id: sjnAUAGv7o123BuTzkKPOTB123Hfq4HpzOE116JKaTvukk23Rys8jjr2OwvPpoLPN3BragPVRI1169t6HMfBxePb123G88MQ117117
-  item_date: "2016-09-08 00:00:00"
-  title: RESTful Web API Design with Nodejs
-  url: https://adobeland.wordpress.com/2016/09/08/restful-web-api-design-with-node-js/
-  domain: adobeland.wordpress.com
-  image: ""
 - curated_id: dGDk6eIYibFC8rIkNQEU07nkJhfM7yQlLv41oCq116WUZOnte431232KbzuK04T5JcrakDfXqKLY3DL6bUb116XI2cAA117117
   item_date: "2016-09-08 00:00:00"
   title: Restful API Design An Opinionated Guide
   url: https://dzone.com/articles/restful-api-design-an-opinionated-guide
   domain: dzone.com
+  image: ""
+- curated_id: sjnAUAGv7o123BuTzkKPOTB123Hfq4HpzOE116JKaTvukk23Rys8jjr2OwvPpoLPN3BragPVRI1169t6HMfBxePb123G88MQ117117
+  item_date: "2016-09-08 00:00:00"
+  title: RESTful Web API Design with Nodejs
+  url: https://adobeland.wordpress.com/2016/09/08/restful-web-api-design-with-node-js/
+  domain: adobeland.wordpress.com
   image: ""
 - curated_id: aXZiXF123qk31BV80o6QHscLNx5IkM2prEHAIThFwl5L116PUhda6IujxuRLscWFJvcGWlM1167YNMWzmqKwEb1166OODg117117
   item_date: "2016-09-09 00:00:00"
@@ -2120,17 +2120,17 @@
   url: http://sunlightfoundation.com/blog/2016/09/26/sunlight-at-the-21st-century-neighborhoods-symposium-how-humanizing-data-will-improve-our-communities/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
-  item_date: "2016-09-28 00:00:00"
-  title: What is API Design
-  url: http://api-university.com/blog/what-is-api-design/
-  domain: api-university.com
-  image: ""
 - curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
   item_date: "2016-09-28 00:00:00"
   title: Announcing the OpenSource beaR Library
   url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
   domain: www.esa.doc.gov
+  image: ""
+- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: What is API Design
+  url: http://api-university.com/blog/what-is-api-design/
+  domain: api-university.com
   image: ""
 - curated_id: 7CeE123KNo123MVyYk9lEHdRyTJtEgeU3NehAxgWlk123AwQUkiP3116PG05dnj177Bvd1GpNoylYbEsnvTdSDlCm2g67Q117117
   item_date: "2016-09-29 13:23:41"
@@ -2237,17 +2237,17 @@
   url: http://dret.typepad.com/dretblog/2016/10/api-usability-matters.html
   domain: dret.typepad.com
   image: ""
-- curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
-  item_date: "2016-10-19 00:00:00"
-  title: From Good to Great API
-  url: http://api-university.com/blog/from-good-to-great-api/
-  domain: api-university.com
-  image: ""
 - curated_id: BBA116Yi3Ib060MJ123HmqgmaGhJ6i1230kxpcFicTxw7wAos1ISyHN1awVQbBAPQrDTmVut123qlCsarzjkc1uMdMcsUQ117117
   item_date: "2016-10-19 00:00:00"
   title: Designing better Web APIs  Part I  arefscom
   url: https://arefs.com/2016/10/19/designing-better-web-apis-part-i/
   domain: arefs.com
+  image: ""
+- curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
+  item_date: "2016-10-19 00:00:00"
+  title: From Good to Great API
+  url: http://api-university.com/blog/from-good-to-great-api/
+  domain: api-university.com
   image: ""
 - curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
   item_date: "2016-10-31 00:00:00"
@@ -2393,17 +2393,17 @@
   url: https://snarky.ca/looking-for-commonality-among-http-request-apis/
   domain: snarky.ca
   image: ""
-- curated_id: Iuu2grPtfFXlvCzkPjvGipaShv5QWN116oKM9kudyw18miCrbivkCYhZV9sCz5DAESOtKUf35qD8y0sKeuVfNhzw117117
-  item_date: "2017-01-31 00:00:00"
-  title: Designing a True REST State Machine
-  url: http://nordicapis.com/designing-a-true-rest-state-machine/
-  domain: nordicapis.com
-  image: ""
 - curated_id: 5cfd84a7362a3aac2677bc89bb34a321
   item_date: "2017-01-31 00:00:00"
   title: Last Year Over 4.2 Billion Records Exposed In 4,149 Breaches
   url: http://www.darkreading.com/attacks-breaches/last-year-over-42-billion-records-exposed-in-4149-breaches/d/d-id/1328015
   domain: www.darkreading.com
+  image: ""
+- curated_id: Iuu2grPtfFXlvCzkPjvGipaShv5QWN116oKM9kudyw18miCrbivkCYhZV9sCz5DAESOtKUf35qD8y0sKeuVfNhzw117117
+  item_date: "2017-01-31 00:00:00"
+  title: Designing a True REST State Machine
+  url: http://nordicapis.com/designing-a-true-rest-state-machine/
+  domain: nordicapis.com
   image: ""
 - curated_id: jTmQUtMcEjTLGtISDASg9anBWHJW1Wau1160CsQvh0mfAu19n8U5jvcdWs24K123VJYr7LHNEwrjEkrnFKBuNWZtUg117117
   item_date: "2017-02-02 00:00:00"
@@ -2595,17 +2595,17 @@
   url: https://www.nytimes.com/2017/03/14/technology/we-vibe-vibrator-lawsuit-spying.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 1c2a3871f3150a614b575babe0f3d5b8
-  item_date: "2017-03-14 00:00:00"
-  title: Boeing Insider Data Breach Serves as Reminder for HR
-  url: https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/boeing-insider-data-breach-serves-as-reminder-for-hr.aspx
-  domain: www.shrm.org
-  image: ""
 - curated_id: 49134c2ee4ee96b32447f87b06e6323d
   item_date: "2017-03-14 00:00:00"
   title: Maker of connected vibrator agrees to destroy sensitive user data
   url: http://www.theverge.com/2017/3/14/14920510/sex-toy-vibrator-we-vibe-4-lawsuit-settlement-privacy
   domain: www.theverge.com
+  image: ""
+- curated_id: 1c2a3871f3150a614b575babe0f3d5b8
+  item_date: "2017-03-14 00:00:00"
+  title: Boeing Insider Data Breach Serves as Reminder for HR
+  url: https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/boeing-insider-data-breach-serves-as-reminder-for-hr.aspx
+  domain: www.shrm.org
   image: ""
 - curated_id: eb613d896ee658896618d501f304b55a
   item_date: "2017-03-15 00:00:00"
@@ -2619,17 +2619,17 @@
   url: http://www.itsecurityguru.org/2017/03/16/popular-teen-quiz-app-wishbone-hacked-exposing-tons-user-information/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: HxloJAo72xgUo6aQS116Yzj4V12aeXmDkvd0wMB116qsCGyi25ElXK297iXPDxM4yqHfY116JpmgSm4ZAetLs123JcXtlw117117
-  item_date: "2017-03-16 00:00:00"
-  title: A Nice API Design Gem Strategy Pattern With Lambdas
-  url: https://blog.jooq.org/2017/03/17/a-nice-api-design-gem-strategy-pattern-with-lambdas/
-  domain: blog.jooq.org
-  image: ""
 - curated_id: 910605678ab2fa010e6e3d74316b61fc
   item_date: "2017-03-16 00:00:00"
   title: WhatsApp Security Flaw Exposed Millions Of Users To Hackers
   url: http://www.itsecurityguru.org/2017/03/16/whatsapp-security-flaw-exposed-millions-users-hackers/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: HxloJAo72xgUo6aQS116Yzj4V12aeXmDkvd0wMB116qsCGyi25ElXK297iXPDxM4yqHfY116JpmgSm4ZAetLs123JcXtlw117117
+  item_date: "2017-03-16 00:00:00"
+  title: A Nice API Design Gem Strategy Pattern With Lambdas
+  url: https://blog.jooq.org/2017/03/17/a-nice-api-design-gem-strategy-pattern-with-lambdas/
+  domain: blog.jooq.org
   image: ""
 - curated_id: 2Ot1p1ihPGHi26Vjq5xpWfARqfZwtSjB92FHv116ZGhtmrQDJU3UxT4rXs0Y5fSqX89aJwYkvgdb5116hPehCQZ70Q117117
   item_date: "2017-03-18 22:42:17"
@@ -2637,16 +2637,16 @@
   url: http://daviddawson.me/blog/2017/02/21/muon-intro.html
   domain: daviddawson.me
   image: ""
-- curated_id: YH353116wouFo123ya123WX70zkC4BmBhE2EmIf8qOTj25Eix3wrtzjA5X3eHniA116DmL2sxCnGH9GH54GwRn93bEqmEQ117117
-  item_date: "2017-03-20 00:00:00"
-  title: RESTful SNMP Over HTTP Part III
-  url: https://dzone.com/articles/restful-snmp-over-http-3
-  domain: dzone.com
-  image: ""
 - curated_id: P123GLG50vbUOfZlqHnZhWCfm2RGV4e3AzqFY6uQynI3QzNu4a7io55iiXDE1XZ0VpqqgfA97EnxuJ6Hngi116NJ9w117117
   item_date: "2017-03-20 00:00:00"
   title: RESTful SNMP Over HTTP Part II
   url: https://dzone.com/articles/restful-snmp-over-http-ii
+  domain: dzone.com
+  image: ""
+- curated_id: YH353116wouFo123ya123WX70zkC4BmBhE2EmIf8qOTj25Eix3wrtzjA5X3eHniA116DmL2sxCnGH9GH54GwRn93bEqmEQ117117
+  item_date: "2017-03-20 00:00:00"
+  title: RESTful SNMP Over HTTP Part III
+  url: https://dzone.com/articles/restful-snmp-over-http-3
   domain: dzone.com
   image: ""
 - curated_id: 5aZEQTZcJk1235sBBL4wRS8GfQpKd123AbMDY5ch8123WGGMw7oP5ITbeSsOGyDIYmITSok92iw4va6I4ddS0BywxoCQ117117
@@ -2802,29 +2802,29 @@
   url: http://www.darkreading.com/endpoint/intercontinental-hotels-group-breach-checks-in-at-1200-locations/d/d-id/1328686
   domain: www.darkreading.com
   image: ""
-- curated_id: mJ0CPNAifOOEAU1cqfL2rphranV116iVSuNYLHwswTTPE123N0wAqJJLduNcHS2UhpXSr21GKERyXRKwyBfswqRT9Q117117
-  item_date: "2017-04-19 00:00:00"
-  title: Microservices APIs and Swagger How They Fit Together
-  url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
-  domain: dzone.com
-  image: ""
 - curated_id: 06ae45feb3a4d6f247f09991fb3a2848
   item_date: "2017-04-19 00:00:00"
   title: 1,200 InterContinental hotels were breached by credit card stealing malware
   url: http://www.theverge.com/2017/4/19/15363800/ihg-credit-card-breach-details-lookup-tool
   domain: www.theverge.com
   image: ""
-- curated_id: 2e615f008517f4cb7059ab5dc372e89b
-  item_date: "2017-04-20 00:00:00"
-  title: "30,000 London Gun Owners Hit by Met Police \u2018Data Breach\u2019"
-  url: http://www.itsecurityguru.org/2017/04/20/30000-london-gun-owners-hit-met-police-data-breach/
-  domain: www.itsecurityguru.org
+- curated_id: mJ0CPNAifOOEAU1cqfL2rphranV116iVSuNYLHwswTTPE123N0wAqJJLduNcHS2UhpXSr21GKERyXRKwyBfswqRT9Q117117
+  item_date: "2017-04-19 00:00:00"
+  title: Microservices APIs and Swagger How They Fit Together
+  url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
+  domain: dzone.com
   image: ""
 - curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
   item_date: "2017-04-20 00:00:00"
   title: Is Protobuf 5x Faster Than JSON Part 2
   url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
   domain: dzone.com
+  image: ""
+- curated_id: 2e615f008517f4cb7059ab5dc372e89b
+  item_date: "2017-04-20 00:00:00"
+  title: "30,000 London Gun Owners Hit by Met Police \u2018Data Breach\u2019"
+  url: http://www.itsecurityguru.org/2017/04/20/30000-london-gun-owners-hit-met-police-data-breach/
+  domain: www.itsecurityguru.org
   image: ""
 - curated_id: ABu4d7a123Thk93UlswkJAXycX6UkiQeRUcAQ116nXtCSqarYYEuAS8Ps1234n9J1P96FoL31KfgR9caoaYWHgQ0l4FQ117117
   item_date: "2017-04-20 00:00:00"
@@ -2857,17 +2857,17 @@
   url: https://dzone.com/articles/the-year-of-data-breaches-why-encryption-and-refor
   domain: dzone.com
   image: ""
-- curated_id: e974e41e08918e07b57b701eecc4ce18
-  item_date: "2017-04-24 00:00:00"
-  title: Hipchat resets user passwords after possible breach
-  url: http://www.pcworld.com/article/3192228/security/hipchat-resets-user-passwords-after-possible-breach.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: 063ff54d9f48e3dce047d3df30fce3a5
   item_date: "2017-04-24 00:00:00"
   title: Lifespan Notifies Patients of Potential Data Breach
   url: http://www.itsecurityguru.org/2017/04/24/lifespan-notifies-patients-potential-data-breach/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: e974e41e08918e07b57b701eecc4ce18
+  item_date: "2017-04-24 00:00:00"
+  title: Hipchat resets user passwords after possible breach
+  url: http://www.pcworld.com/article/3192228/security/hipchat-resets-user-passwords-after-possible-breach.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
   item_date: "2017-04-25 00:00:00"
@@ -2899,17 +2899,17 @@
   url: https://motherboard.vice.com/en_us/article/customer-data-from-encrypted-phone-company-ciphr-has-been-dumped-online
   domain: motherboard.vice.com
   image: ""
-- curated_id: Wl8yWdJEUUBQXYXWW7dG1235SuuE3NFvjgW4lBDcuw16G116oCKuPhIuoHNwW7yLO5I9CaGdv4ddGh4iw8TDi2iJNg117117
-  item_date: "2017-04-26 00:00:00"
-  title: Manage your gRPC APIs with Google Cloud Endpoints
-  url: http://cloudplatform.googleblog.com/2017/04/manage-your-gRPC-APIs-with-Google-Cloud-Endpoints.html
-  domain: cloudplatform.googleblog.com
-  image: ""
 - curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
   item_date: "2017-04-26 00:00:00"
   title: Summarizing requests
   url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
   domain: www.apiful.io
+  image: ""
+- curated_id: Wl8yWdJEUUBQXYXWW7dG1235SuuE3NFvjgW4lBDcuw16G116oCKuPhIuoHNwW7yLO5I9CaGdv4ddGh4iw8TDi2iJNg117117
+  item_date: "2017-04-26 00:00:00"
+  title: Manage your gRPC APIs with Google Cloud Endpoints
+  url: http://cloudplatform.googleblog.com/2017/04/manage-your-gRPC-APIs-with-Google-Cloud-Endpoints.html
+  domain: cloudplatform.googleblog.com
   image: ""
 - curated_id: drWoJN0PKccMe2Yhq50tDcqwTvmHEhqgIb38jaA5rlwINKXrYHViri0KnN8XZSzzwo9123fE8XNaPfjIVwM1NRbw117117
   item_date: "2017-04-27 12:47:45"
@@ -2947,12 +2947,6 @@
   url: http://www.darkreading.com/attacks-breaches/healthcare-breaches-hit-all-time-high-in-2016/d/d-id/1328787
   domain: www.darkreading.com
   image: ""
-- curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
-  item_date: "2017-05-03 00:00:00"
-  title: REST API Industry Debate OData vs GraphQL vs ORDS
-  url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
-  domain: www.progress.com
-  image: ""
 - curated_id: 585b4697de9f4f0e2ae2da6279d8de43
   item_date: "2017-05-03 00:00:00"
   title: 'Nearly half of federal IT managers report breach in last six months: research'
@@ -2967,6 +2961,12 @@
     http://thehill.com/policy/cybersecurity/331791-lawmakers-take-aim-at-irs-education-dept-over-data-breach
   domain: thehill.com
   image: ""
+- curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
+  item_date: "2017-05-03 00:00:00"
+  title: REST API Industry Debate OData vs GraphQL vs ORDS
+  url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
+  domain: www.progress.com
+  image: ""
 - curated_id: 2daed655291527315a2ede8685a5aa03
   item_date: "2017-05-03 00:00:00"
   title: Sabre Breach May Put Traveler Data at Risk
@@ -2979,13 +2979,6 @@
   url: http://www.darkreading.com/attacks-breaches/google-docs-phishing-scam-a-game-changer/d/d-id/1328808
   domain: www.darkreading.com
   image: ""
-- curated_id: Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117
-  item_date: "2017-05-04 00:00:00"
-  title: Building for Builders Stripe039s 8 Tips for Designing APIs and Supporting
-    Developers
-  url: https://www.programmableweb.com/news/building-builders-stripes-8-tips-designing-apis-and-supporting-developers/analysis/2017/05/04
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 50c5dda4662cb6118c78c1df1db045be
   item_date: "2017-05-04 00:00:00"
   title: "Google Was Warned About This Week\u2019s Mass Phishing Email Attack Six
@@ -2993,11 +2986,12 @@
   url: https://motherboard.vice.com/en_us/article/google-hackers-gmail-viral-phishing-campaign
   domain: motherboard.vice.com
   image: ""
-- curated_id: b354d3cb1f3b2c473a90f86a6197cb94
-  item_date: "2017-05-05 00:00:00"
-  title: Criminals Drain European Bank Accounts Using SS7 Security Flaw
-  url: http://www.itsecurityguru.org/2017/05/05/criminals-drain-european-bank-accounts-using-ss7-security-flaw/
-  domain: www.itsecurityguru.org
+- curated_id: Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117
+  item_date: "2017-05-04 00:00:00"
+  title: Building for Builders Stripe039s 8 Tips for Designing APIs and Supporting
+    Developers
+  url: https://www.programmableweb.com/news/building-builders-stripes-8-tips-designing-apis-and-supporting-developers/analysis/2017/05/04
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 763c0c7500ff6b1dce249185fff98382
   item_date: "2017-05-05 00:00:00"
@@ -3005,17 +2999,23 @@
   url: http://www.bbc.co.uk/news/technology-39818436
   domain: www.bbc.co.uk
   image: ""
-- curated_id: 8NbSo6116bEVV5Alxvk0gW123VlIAeQrBNtWytu2MIrvnW0JLMuee116QUvAocbiSqkU7fLs3yXVyE3F0z8SPtlN8SKQ117117
+- curated_id: b354d3cb1f3b2c473a90f86a6197cb94
   item_date: "2017-05-05 00:00:00"
-  title: Yelp Adds GraphQL Support to Fusion API Introduces Developer Beta Program
-  url: https://www.programmableweb.com/news/yelp-adds-graphql-support-to-fusion-api-introduces-developer-beta-program/brief/2017/05/05
-  domain: www.programmableweb.com
+  title: Criminals Drain European Bank Accounts Using SS7 Security Flaw
+  url: http://www.itsecurityguru.org/2017/05/05/criminals-drain-european-bank-accounts-using-ss7-security-flaw/
+  domain: www.itsecurityguru.org
   image: ""
 - curated_id: 8799e8bf3f789d607cb2b031710b1e55
   item_date: "2017-05-05 00:00:00"
   title: Phone Hack Drains German Bank Accounts
   url: http://www.pcmag.com/news/353525/phone-hack-drains-german-bank-accounts
   domain: www.pcmag.com
+  image: ""
+- curated_id: 8NbSo6116bEVV5Alxvk0gW123VlIAeQrBNtWytu2MIrvnW0JLMuee116QUvAocbiSqkU7fLs3yXVyE3F0z8SPtlN8SKQ117117
+  item_date: "2017-05-05 00:00:00"
+  title: Yelp Adds GraphQL Support to Fusion API Introduces Developer Beta Program
+  url: https://www.programmableweb.com/news/yelp-adds-graphql-support-to-fusion-api-introduces-developer-beta-program/brief/2017/05/05
+  domain: www.programmableweb.com
   image: ""
 - curated_id: TiI2FqkFse0E3aKM5wCYv0jSKOB5eqFp4AXNSzhJ8nvwIKPGH9IWgPPkuAJblpfUk116ayhTikMmEiBJhEhXoz1g117117
   item_date: "2017-05-05 22:23:17"
@@ -3356,10 +3356,34 @@
   url: http://techcrunch.com/?p=1509069
   domain: techcrunch.com
   image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15cf2befd4c:3e35d6f:fe3a8465
+  item_date: "2017-06-29 00:21:22"
+  title: "8tracks suffers breach, millions of users\u2019 account details stolen"
+  url: https://thenextweb.com/?p=1056572
+  domain: thenextweb.com
+  image: ""
 - curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15cfa09f801:5357892:517b1451
   item_date: "2017-06-30 10:10:00"
   title: 8tracks Hit With Breach of 18 Million Accounts
   url: https://www.darkreading.com/cloud/8tracks-hit-with-breach-of-18-million-accounts/d/d-id/1329269
   domain: www.darkreading.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15d15b99e16:102a106:1aa8479d
+  item_date: "2017-07-05 17:25:00"
+  title: Bitcoin Funds Stolen from Bithumb Exchange
+  url: https://www.darkreading.com/threat-intelligence/bitcoin-funds-stolen-from-bithumb-exchange/d/d-id/1329275
+  domain: www.darkreading.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15d1890200d:129f32f:bb404dd5
+  item_date: "2017-07-05 21:00:00"
+  title: The Impact of a Security Breach 2017
+  url: http://www.informationweek.com/whitepaper/network-and-perimeter-security/security-management-and-analytics/how-data-breaches-affect-the-enterprise/390563?cid=mp_rptbx&_mc=mp_rptbx
+  domain: www.informationweek.com
+  image: ""
+- curated_id: dIslAC/74CXeS1Mz8zq+s0d2TJcshDPyxk6DQBVrzSc=_15d1de5bbee:f49788:c8935e7d
+  item_date: "2017-07-07 09:32:52"
+  title: Leaky WWE Database Exposes Personal Data of 3M Wrestling Fans
+  url: https://kasperskycontenthub.com/threatpost/?p=126710
+  domain: kasperskycontenthub.com
   image: ""
 ...
