@@ -1,0 +1,165 @@
+aid: breaches
+name: Breaches
+description: >-
+  An index and topic collection covering data breach intelligence, credential exposure databases, dark-web monitoring, and leak detection APIs. Breach intelligence platforms aggregate compromised credentials, stealer logs, ransomware leak-site posts,
+  underground forum chatter, and dark-web marketplace listings into queryable APIs that security teams use to detect exposure of their organization, employees, customers, executives, and supply-chain partners. This collection indexes
+  services like Have I Been Pwned for consumer breach lookup, Pwned Passwords for k-anonymity credential checks, enterprise breach intelligence platforms (CrowdStrike, Microsoft Defender, SentinelOne, Splunk), credential and identity exposure
+  monitors (Okta, Auth0, 1Password, LastPass, Bitwarden), vulnerability and exposure feeds (NVD, CISA, Qualys, Rapid7, Tanium), and regulatory breach-notification authorities (CISA, FTC, NIST) that publish machine-readable feeds of disclosed
+  breaches and known-exploited vulnerabilities.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Data Breach
+- Credential Exposure
+- Dark Web Monitoring
+- Threat Intelligence
+- Leak Detection
+- Breach Notification
+- Stealer Logs
+- Pwned Passwords
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/breaches/refs/heads/main/apis.yml
+created: '2026-05-19'
+modified: '2026-05-19'
+specificationVersion: '0.19'
+apis: []
+network:
+- name: Have I Been Pwned
+  url: https://raw.githubusercontent.com/api-evangelist/have-i-been-pwned/refs/heads/main/apis.yml
+- name: CrowdStrike
+  url: https://raw.githubusercontent.com/api-evangelist/crowdstrike/refs/heads/main/apis.yml
+- name: Microsoft Defender
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-defender/refs/heads/main/apis.yml
+- name: Microsoft Defender for Cloud
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-defender-for-cloud/refs/heads/main/apis.yml
+- name: Microsoft Sentinel
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-sentinel/refs/heads/main/apis.yml
+- name: Microsoft Graph
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-graph/refs/heads/main/apis.yml
+- name: SentinelOne
+  url: https://raw.githubusercontent.com/api-evangelist/sentinelone/refs/heads/main/apis.yml
+- name: Sophos
+  url: https://raw.githubusercontent.com/api-evangelist/sophos/refs/heads/main/apis.yml
+- name: Symantec
+  url: https://raw.githubusercontent.com/api-evangelist/symantec/refs/heads/main/apis.yml
+- name: Trellix
+  url: https://raw.githubusercontent.com/api-evangelist/trellix/refs/heads/main/apis.yml
+- name: McAfee
+  url: https://raw.githubusercontent.com/api-evangelist/mcafee/refs/heads/main/apis.yml
+- name: Splunk
+  url: https://raw.githubusercontent.com/api-evangelist/splunk/refs/heads/main/apis.yml
+- name: Amazon Detective
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-detective/refs/heads/main/apis.yml
+- name: Amazon GuardDuty
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-guardduty/refs/heads/main/apis.yml
+- name: Amazon Macie
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-macie/refs/heads/main/apis.yml
+- name: Google Cloud Security Command Center
+  url: https://raw.githubusercontent.com/api-evangelist/google-cloud-security-command-center/refs/heads/main/apis.yml
+- name: Google Safe Browsing
+  url: https://raw.githubusercontent.com/api-evangelist/google-safe-browsing/refs/heads/main/apis.yml
+- name: Qualys
+  url: https://raw.githubusercontent.com/api-evangelist/qualys/refs/heads/main/apis.yml
+- name: Rapid7
+  url: https://raw.githubusercontent.com/api-evangelist/rapid7/refs/heads/main/apis.yml
+- name: Tanium
+  url: https://raw.githubusercontent.com/api-evangelist/tanium/refs/heads/main/apis.yml
+- name: Sumo Logic
+  url: https://raw.githubusercontent.com/api-evangelist/sumo-logic/refs/heads/main/apis.yml
+- name: Cloudflare
+  url: https://raw.githubusercontent.com/api-evangelist/cloudflare-com/refs/heads/main/apis.yml
+- name: Fortinet
+  url: https://raw.githubusercontent.com/api-evangelist/fortinet/refs/heads/main/apis.yml
+- name: Check Point
+  url: https://raw.githubusercontent.com/api-evangelist/check-point/refs/heads/main/apis.yml
+- name: Palo Alto Networks
+  url: https://raw.githubusercontent.com/api-evangelist/palo-alto-networks/refs/heads/main/apis.yml
+- name: BeyondTrust
+  url: https://raw.githubusercontent.com/api-evangelist/beyondtrust/refs/heads/main/apis.yml
+- name: CyberArk
+  url: https://raw.githubusercontent.com/api-evangelist/cyberark/refs/heads/main/apis.yml
+- name: Okta
+  url: https://raw.githubusercontent.com/api-evangelist/okta/refs/heads/main/apis.yml
+- name: Auth0
+  url: https://raw.githubusercontent.com/api-evangelist/auth0/refs/heads/main/apis.yml
+- name: 1Password
+  url: https://raw.githubusercontent.com/api-evangelist/1password/refs/heads/main/apis.yml
+- name: LastPass
+  url: https://raw.githubusercontent.com/api-evangelist/lastpass/refs/heads/main/apis.yml
+- name: Bitwarden
+  url: https://raw.githubusercontent.com/api-evangelist/bitwarden/refs/heads/main/apis.yml
+- name: NVD
+  url: https://raw.githubusercontent.com/api-evangelist/nvd/refs/heads/main/apis.yml
+- name: Cybersecurity and Infrastructure Security Agency
+  url: https://raw.githubusercontent.com/api-evangelist/cybersecurity-and-infrastructure-security-agency/refs/heads/main/apis.yml
+- name: Federal Trade Commission
+  url: https://raw.githubusercontent.com/api-evangelist/federal-trade-commission/refs/heads/main/apis.yml
+- name: NIST
+  url: https://raw.githubusercontent.com/api-evangelist/nist/refs/heads/main/apis.yml
+- name: Varonis
+  url: https://raw.githubusercontent.com/api-evangelist/varonis/refs/heads/main/apis.yml
+- name: Zscaler
+  url: https://raw.githubusercontent.com/api-evangelist/zscaler/refs/heads/main/apis.yml
+common:
+- type: Portal
+  url: https://apievangelist.com
+- type: GitHubOrganization
+  url: https://github.com/api-evangelist
+- type: Features
+  data:
+  - name: Email and Account Breach Lookup
+    description: APIs like Have I Been Pwned let consumers and security teams check whether an email address, username, or phone number has appeared in known data breaches and stealer log corpora.
+  - name: Pwned Password Checking (K-Anonymity)
+    description: The Pwned Passwords API exposes 800+ million breached password hashes through a k-anonymity protocol, letting applications block known-compromised credentials without transmitting full hashes.
+  - name: Dark Web and Underground Forum Monitoring
+    description: Enterprise breach intelligence platforms continuously scrape dark-web marketplaces, ransomware leak sites, Telegram channels, and underground forums for mentions of customer data, executives, brands, and credentials.
+  - name: Stealer Log and Credential Exposure Feeds
+    description: Modern breach intelligence increasingly centers on infostealer malware logs (RedLine, Raccoon, Vidar, LummaC2) that capture browser-stored credentials, session cookies, and crypto wallets at scale.
+  - name: Ransomware Leak-Site Tracking
+    description: Threat intelligence APIs track ransomware group leak sites (LockBit, Cl0p, ALPHV, Akira) to surface newly disclosed victim organizations and stolen data postings as they appear.
+  - name: Vulnerability and Exposure Feeds
+    description: Authoritative vulnerability databases (NVD, CISA KEV) and commercial exposure platforms (Qualys, Rapid7, Tanium) expose CVE, CVSS, and known-exploited-vulnerability metadata via API.
+  - name: Regulatory Breach Notification Feeds
+    description: Government authorities (FTC, state AGs, EU DPAs, HHS) publish disclosed breach filings; security teams ingest these feeds to track third-party and supply-chain breach exposure.
+  - name: Credential Stuffing Defense
+    description: Identity providers (Okta, Auth0) and password managers (1Password, Bitwarden, LastPass) integrate with breach feeds to block re-use of known-compromised passwords and force resets on exposed accounts.
+- type: UseCases
+  data:
+  - name: Employee Credential Exposure Monitoring
+    description: Security teams continuously query breach intelligence APIs for corporate email domains to detect employee credentials exposed in third-party breaches and infostealer logs, triggering forced password resets.
+  - name: Customer Account Takeover Prevention
+    description: Consumer applications integrate Pwned Passwords and breach lookup APIs at signup and login to block known-compromised credentials and notify customers of exposure.
+  - name: Executive and VIP Protection
+    description: Brand and executive protection teams use dark-web monitoring APIs to detect doxxing, leaked personal data, and impersonation targeting C-suite, board members, and high-value employees.
+  - name: Third-Party and Supply-Chain Risk
+    description: GRC teams ingest breach-notification feeds and regulatory disclosures via API to track breach incidents at vendors, suppliers, and partners that handle their data.
+  - name: Ransomware Victim Intelligence
+    description: Threat intel teams subscribe to ransomware leak-site feeds via API to alert on newly named victims relevant to their industry, supply chain, or geography.
+  - name: Vulnerability Prioritization
+    description: Vulnerability management teams combine NVD CVE data, CISA's Known Exploited Vulnerabilities (KEV) catalog, and commercial exposure platforms to prioritize patching based on breach exploitation evidence.
+  - name: Regulatory Breach Disclosure Compliance
+    description: Privacy and legal teams query FTC, state AG, and EU DPA breach-notification APIs to track required disclosures and benchmark their own incident response.
+  - name: AI Agent Breach Triage
+    description: AI agents wired to breach intelligence APIs autonomously enrich security alerts with exposure context, correlate stolen credentials with active sessions, and draft incident-response runbooks.
+- type: Integrations
+  data:
+  - name: Have I Been Pwned
+    description: The canonical consumer breach-lookup service with 13+ billion breached accounts and 800+ million pwned passwords accessible via free and paid API tiers.
+  - name: CrowdStrike Falcon Intelligence
+    description: Enterprise threat intelligence platform with adversary tracking, dark-web monitoring, and breach exposure feeds delivered via the Falcon API.
+  - name: Microsoft Defender Threat Intelligence
+    description: Threat intelligence and breach exposure feeds integrated across Microsoft Defender, Sentinel, and Graph Security APIs.
+  - name: Splunk Enterprise Security
+    description: SIEM platform that ingests breach intelligence and credential exposure feeds for correlation against authentication and access logs.
+  - name: CISA Known Exploited Vulnerabilities (KEV)
+    description: Authoritative catalog of CVEs with evidence of active exploitation, published by the US Cybersecurity and Infrastructure Security Agency as a machine-readable feed.
+  - name: NVD CVE API
+    description: The National Vulnerability Database REST API exposing CVE records, CVSS scores, CPE mappings, and CWE classifications used as the foundation of breach root-cause analysis.
+  - name: Okta and Auth0
+    description: Identity platforms that integrate breach-password feeds to block known-compromised credentials and trigger step-up authentication on suspected account takeover.
+  - name: 1Password Watchtower
+    description: Consumer and enterprise password manager that surfaces breach exposure for stored credentials via integration with Have I Been Pwned and proprietary feeds.
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+humanURL: https://apievangelist.com

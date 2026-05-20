@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/breaches/refs/heads/main/json-structure/breaches-breach-record-structure.json",
+  "name": "BreachRecord",
+  "description": "A disclosed or detected data breach incident affecting a named organization, describing the affected service, date, data classes exposed, and source attribution.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Canonical identifier for the breach used by the publishing service.",
+      "example": "Adobe"
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable display title for the breach.",
+      "example": "Adobe (October 2013)"
+    },
+    "domain": {
+      "type": "string",
+      "description": "Primary domain of the breached service.",
+      "example": "adobe.com"
+    },
+    "breach_date": {
+      "type": "date",
+      "description": "Date the breach is believed to have occurred.",
+      "example": "2013-10-04"
+    },
+    "added_date": {
+      "type": "datetime",
+      "description": "Date and time the breach was added to the source dataset.",
+      "example": "2013-12-04T00:00:00Z"
+    },
+    "modified_date": {
+      "type": "datetime",
+      "description": "Date and time the breach record was last modified.",
+      "example": "2022-05-15T23:52:49Z"
+    },
+    "pwn_count": {
+      "type": "integer",
+      "description": "Number of accounts affected by the breach.",
+      "example": 152445165
+    },
+    "description": {
+      "type": "string",
+      "description": "Narrative description of the breach, root cause, and impact.",
+      "example": "In October 2013, 153 million Adobe accounts were breached including encrypted passwords and password hints stored in clear text."
+    },
+    "data_classes": {
+      "type": "array",
+      "description": "Categories of personal data exposed in the breach.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Email addresses",
+          "Passwords",
+          "Password hashes",
+          "Password hints",
+          "Usernames",
+          "Phone numbers",
+          "Physical addresses",
+          "Dates of birth",
+          "Government issued IDs",
+          "Payment card numbers",
+          "Bank account numbers",
+          "Geographic locations",
+          "IP addresses",
+          "Browser user agents",
+          "Session tokens",
+          "Security questions and answers",
+          "Health records",
+          "Genetic data",
+          "Biometric data",
+          "Employer information",
+          "Job titles",
+          "Other"
+        ]
+      },
+      "example": ["Email addresses", "Password hints", "Passwords", "Usernames"]
+    },
+    "source": {
+      "type": "string",
+      "description": "Origin or attribution of the breach data.",
+      "enum": [
+        "website-disclosure",
+        "regulator-filing",
+        "infostealer-log",
+        "ransomware-leak-site",
+        "dark-web-forum",
+        "paste-site",
+        "public-leak",
+        "research-disclosure",
+        "unknown"
+      ],
+      "example": "website-disclosure"
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "Whether the publishing service has independently verified the breach.",
+      "example": true
+    },
+    "sensitive": {
+      "type": "boolean",
+      "description": "Whether the breach is flagged as sensitive (adult content, political, health, etc).",
+      "example": false
+    },
+    "retired": {
+      "type": "boolean",
+      "description": "Whether the breach has been retired from the dataset.",
+      "example": false
+    },
+    "is_fabricated": {
+      "type": "boolean",
+      "description": "Whether the breach data is suspected to be fabricated rather than authentic.",
+      "example": false
+    },
+    "is_stealer_log": {
+      "type": "boolean",
+      "description": "Whether the record originates from an infostealer malware log corpus.",
+      "example": false
+    },
+    "logo_path": {
+      "type": "uri",
+      "description": "URL to a logo representing the breached service.",
+      "example": "https://haveibeenpwned.com/Content/Images/PwnedLogos/Adobe.png"
+    }
+  },
+  "required": [
+    "name",
+    "breach_date",
+    "data_classes"
+  ]
+}

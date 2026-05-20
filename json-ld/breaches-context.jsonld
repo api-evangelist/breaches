@@ -1,0 +1,132 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "br": "https://api-evangelist.github.io/breaches/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+
+    "BreachRecord": "br:BreachRecord",
+    "ExposedCredential": "br:ExposedCredential",
+    "DarkWebMention": "br:DarkWebMention",
+    "BreachNotification": "br:BreachNotification",
+
+    "name": "schema:name",
+    "title": "schema:headline",
+    "description": "schema:description",
+    "domain": "schema:domainName",
+
+    "breach_date": {
+      "@id": "br:breachDate",
+      "@type": "xsd:date"
+    },
+    "added_date": {
+      "@id": "dcterms:created",
+      "@type": "xsd:dateTime"
+    },
+    "modified_date": {
+      "@id": "dcterms:modified",
+      "@type": "xsd:dateTime"
+    },
+    "pwn_count": {
+      "@id": "br:pwnCount",
+      "@type": "xsd:integer"
+    },
+    "data_classes": {
+      "@id": "br:dataClasses",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "source": {
+      "@id": "dcterms:source",
+      "@type": "xsd:string"
+    },
+    "verified": {
+      "@id": "br:verified",
+      "@type": "xsd:boolean"
+    },
+    "sensitive": {
+      "@id": "br:sensitive",
+      "@type": "xsd:boolean"
+    },
+    "retired": {
+      "@id": "br:retired",
+      "@type": "xsd:boolean"
+    },
+    "is_fabricated": {
+      "@id": "br:isFabricated",
+      "@type": "xsd:boolean"
+    },
+    "is_stealer_log": {
+      "@id": "br:isStealerLog",
+      "@type": "xsd:boolean"
+    },
+    "logo_path": {
+      "@id": "schema:logo",
+      "@type": "@id"
+    },
+
+    "subject_type": {
+      "@id": "br:subjectType",
+      "@type": "xsd:string"
+    },
+    "subject_value": {
+      "@id": "br:subjectValue",
+      "@type": "xsd:string"
+    },
+    "exposed": {
+      "@id": "br:exposed",
+      "@type": "xsd:boolean"
+    },
+    "exposure_count": {
+      "@id": "br:exposureCount",
+      "@type": "xsd:integer"
+    },
+    "first_seen": {
+      "@id": "br:firstSeen",
+      "@type": "xsd:dateTime"
+    },
+    "last_seen": {
+      "@id": "br:lastSeen",
+      "@type": "xsd:dateTime"
+    },
+    "breach_sources": {
+      "@id": "br:breachSources",
+      "@container": "@set"
+    },
+    "stealer_log_hits": {
+      "@id": "br:stealerLogHits",
+      "@type": "xsd:integer"
+    },
+    "password_strength": {
+      "@id": "br:passwordStrength",
+      "@type": "xsd:string"
+    },
+    "risk_level": {
+      "@id": "br:riskLevel",
+      "@type": "xsd:string"
+    },
+    "k_anonymity": {
+      "@id": "br:kAnonymity"
+    },
+    "hash_prefix": {
+      "@id": "br:hashPrefix",
+      "@type": "xsd:string"
+    },
+    "hash_algorithm": {
+      "@id": "br:hashAlgorithm",
+      "@type": "xsd:string"
+    },
+    "recommended_action": {
+      "@id": "br:recommendedAction",
+      "@type": "xsd:string"
+    },
+
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    }
+  }
+}

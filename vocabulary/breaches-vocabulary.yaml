@@ -1,0 +1,235 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Breaches
+  description: Vocabulary for the breach intelligence topic, covering data breach records, credential exposure, dark-web monitoring, stealer logs, ransomware leak sites, and breach-notification feeds.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Have I Been Pwned API v3
+      namespace: hibp
+      status: active
+    - name: Pwned Passwords K-Anonymity API
+      namespace: pwned-passwords
+      status: active
+    - name: NVD CVE API
+      namespace: nvd
+      status: active
+    - name: CISA Known Exploited Vulnerabilities
+      namespace: cisa-kev
+      status: active
+    - name: CrowdStrike Falcon Intelligence
+      namespace: crowdstrike
+
+  resources:
+    - name: breaches
+      description: Disclosed or detected data breach incidents
+      actions:
+        - list
+        - get
+        - search
+        - subscribe
+    - name: exposed-credentials
+      description: Identifier-level credential exposure records for accounts and passwords
+      actions:
+        - lookup
+        - search
+        - subscribe
+    - name: stealer-logs
+      description: Records originating from infostealer malware corpora
+      actions:
+        - list
+        - get
+        - search
+    - name: dark-web-mentions
+      description: Mentions of monitored selectors in dark-web forums, marketplaces, paste sites, and Telegram channels
+      actions:
+        - list
+        - get
+        - subscribe
+    - name: breach-notifications
+      description: Regulatory and authoritative breach-notification filings (FTC, state AGs, EU DPAs, HHS)
+      actions:
+        - list
+        - get
+        - subscribe
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: search
+      description: Search breaches, exposures, or mentions by selector or criteria
+      httpMethod: GET
+      pattern: query
+    - name: lookup
+      description: Check a single identifier (email, username, phone, hash prefix) against breach datasets
+      httpMethod: GET
+      pattern: query
+    - name: subscribe
+      description: Subscribe to a feed for ongoing breach, exposure, or mention notifications
+      httpMethod: POST
+      pattern: write
+    - name: notify
+      description: Push a breach or exposure alert to a downstream consumer
+      httpMethod: POST
+      pattern: write
+    - name: redact
+      description: Suppress or redact a record per consumer or regulatory request
+      httpMethod: DELETE
+      pattern: destructive
+
+  schemas:
+    core:
+      - name: BreachRecord
+        description: A disclosed or detected data breach incident
+        properties:
+          - name
+          - title
+          - domain
+          - breach_date
+          - pwn_count
+          - data_classes
+          - source
+          - verified
+      - name: ExposedCredential
+        description: An identifier-level credential exposure record
+        properties:
+          - subject_type
+          - subject_value
+          - exposed
+          - exposure_count
+          - breach_sources
+          - risk_level
+          - recommended_action
+
+  enums:
+    data_classes:
+      - Email addresses
+      - Passwords
+      - Password hashes
+      - Password hints
+      - Usernames
+      - Phone numbers
+      - Physical addresses
+      - Dates of birth
+      - Government issued IDs
+      - Payment card numbers
+      - Bank account numbers
+      - Geographic locations
+      - IP addresses
+      - Browser user agents
+      - Session tokens
+      - Security questions and answers
+      - Health records
+      - Genetic data
+      - Biometric data
+      - Employer information
+      - Job titles
+    breach_sources:
+      - website-disclosure
+      - regulator-filing
+      - infostealer-log
+      - ransomware-leak-site
+      - dark-web-forum
+      - paste-site
+      - public-leak
+      - research-disclosure
+      - unknown
+    risk_levels:
+      - informational
+      - low
+      - medium
+      - high
+      - critical
+    recommended_actions:
+      - no-action
+      - monitor
+      - notify-user
+      - force-password-reset
+      - revoke-session
+      - step-up-auth
+
+capability:
+  workflows:
+    - name: Employee Credential Exposure Monitoring
+      description: Continuously monitor corporate email domains for credential exposure in third-party breaches and infostealer logs, triggering forced resets and step-up authentication
+      apis:
+        - hibp
+        - crowdstrike
+      personas:
+        - Security Operations Analyst
+      domains:
+        - Credential Exposure
+    - name: Customer Account Takeover Prevention
+      description: Block known-compromised passwords at signup and login using k-anonymity breach feeds and notify customers when their email appears in new breaches
+      apis:
+        - pwned-passwords
+        - hibp
+      personas:
+        - Application Security Engineer
+      domains:
+        - Identity Protection
+    - name: Vulnerability and Exploitation Prioritization
+      description: Correlate NVD CVE records with CISA Known Exploited Vulnerabilities and commercial exposure feeds to prioritize patching by active exploitation evidence
+      apis:
+        - nvd
+        - cisa-kev
+      personas:
+        - Vulnerability Manager
+      domains:
+        - Vulnerability Intelligence
+
+  personas:
+    - id: security-operations-analyst
+      name: Security Operations Analyst
+      description: SOC analysts triaging breach intelligence alerts and credential exposure events against authentication and access logs
+      workflows:
+        - Employee Credential Exposure Monitoring
+    - id: application-security-engineer
+      name: Application Security Engineer
+      description: Engineers integrating breach feeds into consumer authentication flows to block compromised credentials and prevent account takeover
+      workflows:
+        - Customer Account Takeover Prevention
+    - id: vulnerability-manager
+      name: Vulnerability Manager
+      description: Practitioners prioritizing patch deployment based on CVE severity and breach exploitation evidence
+      workflows:
+        - Vulnerability and Exploitation Prioritization
+
+  domains:
+    - name: Credential Exposure
+      description: Monitoring and response for compromised account credentials surfaced in breaches and stealer logs
+    - name: Identity Protection
+      description: Consumer and workforce identity defense against breach-driven account takeover and credential stuffing
+    - name: Vulnerability Intelligence
+      description: Authoritative and commercial feeds describing software vulnerabilities and active exploitation
+
+crossReference:
+  - resource: exposed-credentials
+    operations:
+      - lookup
+      - search
+      - subscribe
+    workflows:
+      - Employee Credential Exposure Monitoring
+      - Customer Account Takeover Prevention
+    personas:
+      - Security Operations Analyst
+      - Application Security Engineer
+  - resource: breaches
+    operations:
+      - list
+      - search
+      - subscribe
+    workflows:
+      - Employee Credential Exposure Monitoring
+    personas:
+      - Security Operations Analyst

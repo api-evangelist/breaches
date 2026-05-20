@@ -1,0 +1,23 @@
+{
+  "name": "Adobe",
+  "title": "Adobe (October 2013)",
+  "domain": "adobe.com",
+  "breach_date": "2013-10-04",
+  "added_date": "2013-12-04T00:00:00Z",
+  "modified_date": "2022-05-15T23:52:49Z",
+  "pwn_count": 152445165,
+  "description": "In October 2013, 153 million Adobe accounts were breached including encrypted passwords and password hints stored in clear text. Customers were exposed to ongoing credential-stuffing and phishing risk for years afterward.",
+  "data_classes": [
+    "Email addresses",
+    "Password hints",
+    "Passwords",
+    "Usernames"
+  ],
+  "source": "website-disclosure",
+  "verified": true,
+  "sensitive": false,
+  "retired": false,
+  "is_fabricated": false,
+  "is_stealer_log": false,
+  "logo_path": "https://haveibeenpwned.com/Content/Images/PwnedLogos/Adobe.png"
+}
