@@ -1,0 +1,28 @@
+title: Breaches
+description: An index and topic collection covering data breach intelligence, credential
+  exposure databases, dark-web monitoring, and leak detection APIs. Breach intelligence
+  platforms aggregate compromised credentials, stealer logs, ransomware leak-site
+  posts, underground forum chatter, and dark-web marketplace listings into queryable
+  APIs that security teams use to detect exposure of their organization, employees,
+  customers, executives, and supply-chain partners. This collection indexes services
+  like Have I Been Pwned for consumer breach lookup, Pwned Passwords for k-anonymity
+  credential checks, enterprise breach intelligence platforms (CrowdStrike, Microsoft
+  Defender, SentinelOne, Splunk), credential and identity exposure monitors (Okta,
+  Auth0, 1Password, LastPass, Bitwarden), vulnerability and exposure feeds (NVD, CISA,
+  Qualys, Rapid7, Tanium), and regulatory breach-notification authorities (CISA, FTC,
+  NIST) that publish machine-readable feeds of disclosed breaches and known-exploited
+  vulnerabilities.
+url: https://breaches.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
