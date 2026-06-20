@@ -7,7 +7,7 @@ description: >-
   monitors (Okta, Auth0, 1Password, LastPass, Bitwarden), vulnerability and exposure feeds (NVD, CISA, Qualys, Rapid7, Tanium), and regulatory breach-notification authorities (CISA, FTC, NIST) that publish machine-readable feeds of disclosed
   breaches and known-exploited vulnerabilities.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Data Breach
 - Credential Exposure
