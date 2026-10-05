@@ -1,5 +1,6 @@
 aid: breaches
 name: Breaches
+kind: topic
 description: >-
   An index and topic collection covering data breach intelligence, credential exposure databases, dark-web monitoring, and leak detection APIs. Breach intelligence platforms aggregate compromised credentials, stealer logs, ransomware leak-site posts,
   underground forum chatter, and dark-web marketplace listings into queryable APIs that security teams use to detect exposure of their organization, employees, customers, executives, and supply-chain partners. This collection indexes
