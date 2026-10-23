@@ -10,6 +10,15 @@ description: >-
 type: Index
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
+- Data Breaches
+- Credential Exposure
+- Dark Web Monitoring
+- Threat Intelligence
+- Leak Detection
+- Breach Notification
+- Stealer Logs
+- Pwned Passwords
+tags_raw:
 - Data Breach
 - Credential Exposure
 - Dark Web Monitoring
