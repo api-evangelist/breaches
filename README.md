@@ -1,132 +1,97 @@
-# Breaches (breaches)
+# Breaches
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering data breach intelligence, credential exposure databases, dark-web monitoring, and leak detection APIs. Breach intelligence platforms aggregate compromised credentials, stealer logs, ransomware leak-site posts, underground forum chatter, and dark-web marketplace listings into queryable APIs that security teams use to detect exposure of their organization, employees, customers, executives, and supply-chain partners. This collection indexes services like Have I Been Pwned for consumer breach lookup, Pwned Passwords for k-anonymity credential checks, enterprise breach intelligence platforms (CrowdStrike, Microsoft Defender, SentinelOne, Splunk), credential and identity exposure monitors (Okta, Auth0, 1Password, LastPass, Bitwarden), vulnerability and exposure feeds (NVD, CISA, Qualys, Rapid7, Tanium), and regulatory breach-notification authorities (CISA, FTC, NIST) that publish machine-readable feeds of disclosed breaches and known-exploited vulnerabilities.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Data Breaches · Credential Exposure · Dark Web Monitoring · Threat Intelligence · Leak Detection · Breach Notification · Stealer Logs · Pwned Passwords
 
-## Tags:
+## Breaches on APIs.io
 
- - Data Breach, Credential Exposure, Dark Web Monitoring, Threat Intelligence, Leak Detection, Breach Notification, Stealer Logs, Pwned Passwords
+Everything profiled for Breaches is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/breaches/](https://apis.io/providers/breaches/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Breach Record Schema](https://raw.githubusercontent.com/api-evangelist/breaches/refs/heads/main/json-schema/breaches-breach-record-schema.json)
-- [JSONSchema - Exposed Credential Schema](https://raw.githubusercontent.com/api-evangelist/breaches/refs/heads/main/json-schema/breaches-exposed-credential-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/breaches/refs/heads/main/json-ld/breaches-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/breaches/refs/heads/main/vocabulary/breaches-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Email and Account Breach Lookup | APIs like Have I Been Pwned let consumers and security teams check whether an email address, username, or phone number has appeared in known data breaches and stealer log corpora. |
-| Pwned Password Checking (K-Anonymity) | The Pwned Passwords API exposes 800+ million breached password hashes through a k-anonymity protocol, letting applications block known-compromised credentials without transmitting full hashes. |
-| Dark Web and Underground Forum Monitoring | Enterprise breach intelligence platforms continuously scrape dark-web marketplaces, ransomware leak sites, Telegram channels, and underground forums for mentions of customer data, executives, brands, and credentials. |
-| Stealer Log and Credential Exposure Feeds | Modern breach intelligence increasingly centers on infostealer malware logs (RedLine, Raccoon, Vidar, LummaC2) that capture browser-stored credentials, session cookies, and crypto wallets at scale. |
-| Ransomware Leak-Site Tracking | Threat intelligence APIs track ransomware group leak sites (LockBit, Cl0p, ALPHV, Akira) to surface newly disclosed victim organizations and stolen data postings as they appear. |
-| Vulnerability and Exposure Feeds | Authoritative vulnerability databases (NVD, CISA KEV) and commercial exposure platforms (Qualys, Rapid7, Tanium) expose CVE, CVSS, and known-exploited-vulnerability metadata via API. |
-| Regulatory Breach Notification Feeds | Government authorities (FTC, state AGs, EU DPAs, HHS) publish disclosed breach filings; security teams ingest these feeds to track third-party and supply-chain breach exposure. |
-| Credential Stuffing Defense | Identity providers (Okta, Auth0) and password managers (1Password, Bitwarden, LastPass) integrate with breach feeds to block re-use of known-compromised passwords and force resets on exposed accounts. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Employee Credential Exposure Monitoring | Security teams continuously query breach intelligence APIs for corporate email domains to detect employee credentials exposed in third-party breaches and infostealer logs, triggering forced password resets. |
-| Customer Account Takeover Prevention | Consumer applications integrate Pwned Passwords and breach lookup APIs at signup and login to block known-compromised credentials and notify customers of exposure. |
-| Executive and VIP Protection | Brand and executive protection teams use dark-web monitoring APIs to detect doxxing, leaked personal data, and impersonation targeting C-suite, board members, and high-value employees. |
-| Third-Party and Supply-Chain Risk | GRC teams ingest breach-notification feeds and regulatory disclosures via API to track breach incidents at vendors, suppliers, and partners that handle their data. |
-| Ransomware Victim Intelligence | Threat intel teams subscribe to ransomware leak-site feeds via API to alert on newly named victims relevant to their industry, supply chain, or geography. |
-| Vulnerability Prioritization | Vulnerability management teams combine NVD CVE data, CISA's Known Exploited Vulnerabilities (KEV) catalog, and commercial exposure platforms to prioritize patching based on breach exploitation evidence. |
-| Regulatory Breach Disclosure Compliance | Privacy and legal teams query FTC, state AG, and EU DPA breach-notification APIs to track required disclosures and benchmark their own incident response. |
-| AI Agent Breach Triage | AI agents wired to breach intelligence APIs autonomously enrich security alerts with exposure context, correlate stolen credentials with active sessions, and draft incident-response runbooks. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Breaches: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| Have I Been Pwned | The canonical consumer breach-lookup service with 13+ billion breached accounts and 800+ million pwned passwords accessible via free and paid API tiers. |
-| CrowdStrike Falcon Intelligence | Enterprise threat intelligence platform with adversary tracking, dark-web monitoring, and breach exposure feeds delivered via the Falcon API. |
-| Microsoft Defender Threat Intelligence | Threat intelligence and breach exposure feeds integrated across Microsoft Defender, Sentinel, and Graph Security APIs. |
-| Splunk Enterprise Security | SIEM platform that ingests breach intelligence and credential exposure feeds for correlation against authentication and access logs. |
-| CISA Known Exploited Vulnerabilities (KEV) | Authoritative catalog of CVEs with evidence of active exploitation, published by the US Cybersecurity and Infrastructure Security Agency as a machine-readable feed. |
-| NVD CVE API | The National Vulnerability Database REST API exposing CVE records, CVSS scores, CPE mappings, and CWE classifications used as the foundation of breach root-cause analysis. |
-| Okta and Auth0 | Identity platforms that integrate breach-password feeds to block known-compromised credentials and trigger step-up authentication on suspected account takeover. |
-| 1Password Watchtower | Consumer and enterprise password manager that surfaces breach exposure for stored credentials via integration with Have I Been Pwned and proprietary feeds. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Breach Record Schema](json-schema/breaches-breach-record-schema.json)
-- [Exposed Credential Schema](json-schema/breaches-exposed-credential-schema.json)
-
-### JSON Structure
-
-- [Breach Record Structure](json-structure/breaches-breach-record-structure.json)
-- [Exposed Credential Structure](json-structure/breaches-exposed-credential-structure.json)
-
-### JSON-LD
-
-- [Breaches Context](json-ld/breaches-context.jsonld)
-
-## Vocabulary
-
-- [Breaches Vocabulary](vocabulary/breaches-vocabulary.yaml) — Unified taxonomy mapping 5 resources, 7 actions, 3 workflows, and 3 personas across breach intelligence, credential exposure, and dark-web monitoring
-
-## Network
-
-This index references the following breach intelligence, credential exposure, and threat intelligence repositories:
-
-- [Have I Been Pwned](https://github.com/api-evangelist/have-i-been-pwned)
-- [CrowdStrike](https://github.com/api-evangelist/crowdstrike)
-- [Microsoft Defender](https://github.com/api-evangelist/microsoft-defender)
-- [Microsoft Defender for Cloud](https://github.com/api-evangelist/microsoft-defender-for-cloud)
-- [Microsoft Sentinel](https://github.com/api-evangelist/microsoft-sentinel)
-- [Microsoft Graph](https://github.com/api-evangelist/microsoft-graph)
-- [SentinelOne](https://github.com/api-evangelist/sentinelone)
-- [Sophos](https://github.com/api-evangelist/sophos)
-- [Symantec](https://github.com/api-evangelist/symantec)
-- [Trellix](https://github.com/api-evangelist/trellix)
-- [McAfee](https://github.com/api-evangelist/mcafee)
-- [Splunk](https://github.com/api-evangelist/splunk)
-- [Amazon Detective](https://github.com/api-evangelist/amazon-detective)
-- [Amazon GuardDuty](https://github.com/api-evangelist/amazon-guardduty)
-- [Amazon Macie](https://github.com/api-evangelist/amazon-macie)
-- [Google Cloud Security Command Center](https://github.com/api-evangelist/google-cloud-security-command-center)
-- [Google Safe Browsing](https://github.com/api-evangelist/google-safe-browsing)
-- [Qualys](https://github.com/api-evangelist/qualys)
-- [Rapid7](https://github.com/api-evangelist/rapid7)
-- [Tanium](https://github.com/api-evangelist/tanium)
-- [Sumo Logic](https://github.com/api-evangelist/sumo-logic)
-- [Cloudflare](https://github.com/api-evangelist/cloudflare-com)
-- [Fortinet](https://github.com/api-evangelist/fortinet)
-- [Check Point](https://github.com/api-evangelist/check-point)
-- [Palo Alto Networks](https://github.com/api-evangelist/palo-alto-networks)
-- [BeyondTrust](https://github.com/api-evangelist/beyondtrust)
-- [CyberArk](https://github.com/api-evangelist/cyberark)
-- [Okta](https://github.com/api-evangelist/okta)
-- [Auth0](https://github.com/api-evangelist/auth0)
-- [1Password](https://github.com/api-evangelist/1password)
-- [LastPass](https://github.com/api-evangelist/lastpass)
-- [Bitwarden](https://github.com/api-evangelist/bitwarden)
-- [NVD](https://github.com/api-evangelist/nvd)
-- [Cybersecurity and Infrastructure Security Agency](https://github.com/api-evangelist/cybersecurity-and-infrastructure-security-agency)
-- [Federal Trade Commission](https://github.com/api-evangelist/federal-trade-commission)
-- [NIST](https://github.com/api-evangelist/nist)
-- [Varonis](https://github.com/api-evangelist/varonis)
-- [Zscaler](https://github.com/api-evangelist/zscaler)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/breaches/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
