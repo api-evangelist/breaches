@@ -14,7 +14,7 @@ meta:
     (CISA, FTC, NIST) that publish machine-readable feeds of disclosed breaches and
     known-exploited vulnerabilities.
   tags:
-  - Data Breach
+  - Data Breaches
   - Credential Exposure
   - Dark Web Monitoring
   - Threat Intelligence
